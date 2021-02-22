@@ -1,1 +1,1 @@
-Practicing Tao Te Ching with very modern C++ features
+Practicing Tao Te Ching with very modern Rust features
